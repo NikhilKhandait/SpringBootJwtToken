@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Rays Software\WorkSpace\Spring-MVC\Spring_boot_token\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2437125553.index
+230825996.index
+461298758.index
+794835397.index
+2115702306.index
+2968178617.index
